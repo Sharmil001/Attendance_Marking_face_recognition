@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CsvValidation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="picamera" />
+            <item index="1" class="java.lang.String" itemvalue="Flask-BasicAuth" />
+            <item index="2" class="java.lang.String" itemvalue="flask" />
+            <item index="3" class="java.lang.String" itemvalue="scipy" />
+            <item index="4" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="5" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="6" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="7" class="java.lang.String" itemvalue="h5py" />
+            <item index="8" class="java.lang.String" itemvalue="grpcio" />
+            <item index="9" class="java.lang.String" itemvalue="keras-squeezenet" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
